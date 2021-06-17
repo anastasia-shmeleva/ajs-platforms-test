@@ -1,0 +1,23 @@
+{
+  "name": "ajs-platforms-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastasia-shmeleva/ajs-platforms-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anastasia-shmeleva/ajs-platforms-test/issues"
+  },
+  "homepage": "https://github.com/anastasia-shmeleva/ajs-platforms-test#readme",
+  "dependencies": {
+    "@anastasia-shmeleva/ajs-platforms": "^1.0.0"
+  }
+}
